@@ -14,8 +14,7 @@ The dashboard highlights:
 ## Files in This Repository
 - **`Task1_Business_Sales.pbix`** – Power BI dashboard file.  
 - **`Sales_Data.xlsx`** – Dataset used for analysis (if applicable).  
-- **`Business_Sales_Insights_Report.pdf`** – Detailed analysis and insights report.  
-- *(Optional)* **Screenshots/** – Dashboard screenshots for quick preview.
+- **`Business_Sales_Insights_Report.pdf`** – Detailed analysis and insights report. .
 
 ---
 
